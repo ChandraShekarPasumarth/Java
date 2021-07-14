@@ -14,13 +14,11 @@ Write the method encrypt that has two parameters, a String named input and an in
 
 Write the void method testCaesar that has no parameters. This method should read a file and encrypt the complete file using the Caesar Cipher algorithm, printing the encrypted message. You may want to include the lines:
 Modify the encrypt method to be able to handle both uppercase and lowercase letters. For example, encrypt(“First Legion”, 23) should return “Cfopq Ibdflk”, and encrypt(“First Legion”, 17) should return “Wzijk Cvxzfe”.  Be sure to test the encrypt method.
-Write the method encryptTwoKeys that has three parameters, a String named input, and two integers named key1 and key2. This method returns a String that has been encrypted using the following algorithm. Parameter key1 is used to encrypt every other character with the Caesar Cipher algorithm, starting with the first character, and key2 is used to encrypt every other character, starting with the second character. For example, the call encryptTwoKeys(“First Legion”, 23, 17) should return “Czojq Ivdzle”. Note the ‘F’ is encrypted with key 23, the first ‘i’ with 17, the ‘r’ with 23, and the ‘s’ with 17, etc. Be sure to test this method. 
+Write the method encryptTwoKeys that has three parameters, a String named input, and two integers named key1 and key2. This method returns a String that has been encrypted using the following algorithm. Parameter key1 is used to encrypt every other character with the Caesar Cipher algorithm, starting with the first character, and key2 is used to encrypt every other character, starting with the second character. For example, the call encryptTwoKeys(“First Legion”, 23, 17) should return “Czojq Ivdzle”. Note the ‘F’ is encrypted with key 23, the first ‘i’ with 17, the ‘r’ with 23, and the ‘s’ with 17, etc. Be sure to test this method.
  */
 package com.company;
 
 import edu.duke.*;
-import org.apache.commons.csv.*;
-import java.io.*;
 public class CaesarCipher {
     public void tester() {
         FileResource fr = new FileResource();
@@ -39,7 +37,7 @@ public class CaesarCipher {
 
     }
 
-    private String encryptTwoKeys(String input, int key1, int key2) {
+    public String encryptTwoKeys(String input, int key1, int key2) {
         String Alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         String aplhabets = "abcdefghijklmnopqrstuvwxyz";
         StringBuilder encrypt_two = new StringBuilder();

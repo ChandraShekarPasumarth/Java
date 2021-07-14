@@ -94,5 +94,13 @@ class Main{
         CaesarCipher object2=new CaesarCipher();
         object2.tester();
 
+        WordLengths w=new WordLengths();
+        w.testCountWordLengths();
+
+        CesarBreaker ceaserBreaker=new CesarBreaker();
+        ceaserBreaker.testDecrypt();
+
+
+
     }
 }
