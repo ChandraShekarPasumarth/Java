@@ -1,3 +1,4 @@
+//time complexity is O(n) and Space is O(n)
 package com.Assignment2;
 
 import java.util.Scanner;
