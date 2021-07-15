@@ -100,6 +100,9 @@ class Main{
         CesarBreaker ceaserBreaker=new CesarBreaker();
         ceaserBreaker.testDecrypt();
 
+        WordFrequencies wordFrequencies = new WordFrequencies();
+        wordFrequencies.tester();;
+
 
 
     }
