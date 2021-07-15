@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Assignment1 {
 
     public void findFile() {
-        File file = new File("/home/chansp/Downloads");
+        File file = new File("/home/chansp");
         //string to store the name of the file
         String str ;
         //  Scanner is declare
