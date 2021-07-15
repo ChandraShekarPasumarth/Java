@@ -40,7 +40,7 @@ Note this file has words that are:
 
 1 word of length 11: necessaries
  */
-package com.company;
+package com.Assignment1;
 
 import edu.duke.FileResource;
 

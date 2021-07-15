@@ -15,7 +15,7 @@ Write the method getAverageRank that has two parameters: a string name, and a st
 Write the method getTotalBirthsRankedHigher that has three parameters: an integer named year, a string named name, and a string named gender (F for female and M for male). This method returns an integer, the total number of births of those names with the same gender and same year who are ranked higher than name. For example, if getTotalBirthsRankedHigher accesses the "yob2012short.csv" file with name set to “Ethan”, gender set to “M”, and year set to 2012, then this method should return 15, since Jacob has 8 births and Mason has 7 births, and those are the only two ranked higher than Ethan.
 
  */
-package com.company;
+package com.Assignment1;
 
 import edu.duke.*;
 import org.apache.commons.csv.*;

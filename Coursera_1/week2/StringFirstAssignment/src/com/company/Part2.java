@@ -1,4 +1,4 @@
-package com.company;
+package com.Assignment1;
 
 public class Part2 {
     public String findSimpleGene(String dna,String startCodon,String stopCodon){

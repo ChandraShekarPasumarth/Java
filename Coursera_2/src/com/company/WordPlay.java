@@ -17,7 +17,7 @@
 
 
 */
-package com.company;
+package com.Assignment1;
 
 public class WordPlay {
 

@@ -1,4 +1,4 @@
-package com.company;
+package com.Assignment1;
 
 import edu.duke.*;
 import java.io.*;

@@ -1,4 +1,4 @@
-package com.company;
+package com.Assignment1;
 //@author Duke Software Team
 import edu.duke.*;
 import java.io.*;
