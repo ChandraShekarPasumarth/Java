@@ -12,7 +12,7 @@ public class Assignment1 {
         File file = new File("/home/chansp");
         //string to store the name of the file
         String str ;
-        //  Scanner is declare
+        //  Scanner is declared 
         Scanner in = new Scanner(System.in);
         // do while is used to run the program again and again
         do{
