@@ -16,10 +16,10 @@ public class Assignment3 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the ip Address");
         String ipAddress=scanner.next();
-        calaculateTime(ipAddress);
+        calaculateTimeToPing(ipAddress);
     }
 
-    private void calaculateTime(String ipAddress) throws IOException {
+    private void calaculateTimeToPing(String ipAddress) throws IOException {
         //Getting the current time in milli seconds
         long currentTime = System.currentTimeMillis();
 
