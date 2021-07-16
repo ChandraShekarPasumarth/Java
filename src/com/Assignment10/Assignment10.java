@@ -16,11 +16,17 @@ public class Assignment10 {
         //Printing the linked list
 
         System.out.println("Elements in linked list"+ Slist);
+        
+        //Removing the elements
 
         Slist.remove("String5");
         Slist.removeFirst();
         Slist.removeLast();
+        //iterator is used to traverse the linked list
+        
         Iterator listIterator=  Slist.iterator();
+        
+        //Loop over the list to print the elements in the list.
         while (listIterator.hasNext()){
             System.out.println(listIterator.next());
         }
