@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef5f437-b17e-40af-8fea-97d6b7c30953" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/StringFirstAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/courserajava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/out/production/week2/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/out/production/week2/com/company/Part1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/out/production/week2/com/company/Part2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/out/production/week2/com/company/Part3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/out/production/week2/com/company/Part4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/src/com/company/Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/src/com/company/Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/src/com/company/Part3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringFirstAssignment/src/com/company/Part4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/StringSecondAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/courserajava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/out/production/StringSecondAssignment/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/out/production/StringSecondAssignment/com/company/Part1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/out/production/StringSecondAssignment/com/company/Part2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/out/production/StringSecondAssignment/com/company/Part3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/src/com/company/Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/src/com/company/Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/StringSecondAssignment/src/com/company/Part3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/StringThirdAssignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week2/StringThirdAssignment/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/StringThirdAssignment/src/com/company/Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/StringThirdAssignment/src/com/company/Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/StringThirdAssignment/src/com/company/Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/StringThirdAssignment/src/com/company/Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/StringThirdAssignment/src/com/company/Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/StringThirdAssignment/src/com/company/Part3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vUATdsnJIs6yvzdMUnEkwdOVEp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef5f437-b17e-40af-8fea-97d6b7c30953" name="Default Changelist" comment="" />
+      <created>1626606314316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626606314316</updated>
+    </task>
+    <servers />
+  </component>
+</project>
